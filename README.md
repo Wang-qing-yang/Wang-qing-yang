@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Wang-qing-yang
-- 👀 I’m interested in something
-- 🌱 I’m currently learning shardingsphere
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- A Student Majoring in Automation & A Open Source beginner.
+- 👀 I am looking for an opportunity to participate in open source
+- 🌱 I’m currently studying in Nanjing, China.
+- 📫 Anytime & Anywhere on qywang2000@qq.com
 
 <!---
 Wang-qing-yang/Wang-qing-yang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
